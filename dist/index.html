@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+  <title>Document</title>
+<link href="./style.css" rel="stylesheet"></head>
+<body>
+<div class="login-page-wrapp d-flex">
+  <!-- /.login-page-wrapp -->
+  <div class="login-form-wrap d-flex align-items-center">
+    <div class="form-card card ml-auto">
+      <div class="card-body">
+        <h4 class="card-title">Please Login</h4>
+        <form name="loginForm">
+          <div class="form-group">
+            <label for="email">Email address</label>
+            <input
+                    type="email"
+                    class="form-control"
+                    id="email"
+                    aria-describedby="emailHelp"
+                    placeholder="Enter email"
+                    data-required="email"
+                    data-invalid-message="Please provide valid email example@example.com"
+            />
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input
+                    type="password"
+                    class="form-control"
+                    id="password"
+                    placeholder="Password"
+                    data-required="password"
+            />
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <!-- /.login-form-wrap -->
+
+  <!--      /.reg-form-wrap-->
+  <div class="login-form-wrap d-flex align-items-center">
+    <div class="form-card reg-form-card card ml-4 mr-auto">
+      <div class="card-body">
+        <h4 class="card-title">Please Reg</h4>
+        <hr>
+        <form name="regForm">
+          <div class="d-flex form-wrapper">
+            <div class="contacts mr-5 w-50">
+              <div class="form-group">
+                <label class="h5" for="email-reg">Email address</label>
+                <input
+                        type="email"
+                        class="form-control"
+                        id="email-reg"
+                        name="email"
+                        aria-describedby="emailHelp"
+                        placeholder="Enter email"
+                        data-required="email"
+                        data-invalid-message="Please provide valid email example@example.com"
+                />
+              </div>
+              <div class="form-group">
+                <label class="h5" for="password-reg">Password</label>
+                <input
+                        type="password"
+                        class="form-control"
+                        id="password-reg"
+                        name="password"
+                        placeholder="Password"
+                        data-required="password"
+                />
+              </div>
+              <div class="form-group">
+                <label for="telephone" class="h5">Phone</label>
+                <input
+                        class="form-control"
+                        type="tel"
+                        name="telephone"
+                        data-required="phone"
+                        placeholder="phone"
+                        id="telephone"
+                />
+              </div>
+              <div class="form-group">
+                <label for="nickname" class="h5">Nick Name</label>
+                <input
+                        class="form-control"
+                        type="text"
+                        name="nickname"
+                        placeholder="nickname"
+                        id="nickname"
+                />
+              </div>
+
+              <div class="form-group">
+                <label for="date"></label>
+                <input
+                        id="date"
+                        type="date"
+                        name="birthday"
+                        class="form-control"
+                />
+              </div>
+            </div>
+            <div class="info ml-5 w-50">
+              <div class="form-group">
+                <label class="h5" for="firstName">First Name</label>
+                <input
+                        id="firstName"
+                        type="text"
+                        name="first_name"
+                        placeholder="First name"
+                        class="form-control"
+                />
+              </div>
+              <div class="form-group">
+                <label class="h5" for="lastName">Last Name</label>
+                <input
+                        id="lastName"
+                        type="text"
+                        name="last_name"
+                        placeholder="Last name"
+                        class="form-control"
+                />
+              </div>
+              <div class="form-group mt-2">
+                <h2 class="h5">Gender</h2>
+                <div class="custom-control custom-radio">
+                  <input
+                          required
+                          type="radio"
+                          id="customRadio1"
+                          name="gender"
+                          value="male"
+                          class="custom-control-input"
+                  />
+                  <label class="custom-control-label" for="customRadio1">Female</label>
+                </div>
+                <div class="custom-control custom-radio">
+                  <input
+                          required
+                          type="radio"
+                          value="female"
+                          id="customRadio2"
+                          name="gender"
+                          class="custom-control-input"
+                  />
+                  <label class="custom-control-label" for="customRadio2">Male</label>
+                </div>
+              </div>
+              <div class="form-group">
+                <label class="h5" for="country">Country</label>
+                <input
+                        type="text"
+                        id="country"
+                        name="country"
+                        class="form-control"
+                />
+                <label class="h5 mt-3" for="city">City</label>
+                <input
+                        disabled
+                        id="city"
+                        autocomplete="off"
+                        name="city"
+                        class="form-control"
+                />
+              </div>
+            </div>
+          </div>
+          <hr>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <!--      /.reg-form-wrap-->
+
+  <!-- /.login-greeting-screen -->
+</div>
+<div class="login-greeting-screen d-flex front-layer align-items-center">
+  <div class="login-greeting-screen-text">
+    <h1 class="login-greeting-screen-title">Welcome to my app</h1>
+    <p class="login-greeting-screen-description">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores
+      inventore non accusantium earum, illo dolores reprehenderit laborum
+      ratione quos doloribus repellat eligendi deleniti. Ipsum voluptate
+      ipsa exercitationem eaque totam. A.
+    </p>
+  </div>
+</div>
+<script type="text/javascript" src="polyfill.71780c10715c32ee1f83.js"></script><script type="text/javascript" src="app.71780c10715c32ee1f83.js"></script></body>
+</html>

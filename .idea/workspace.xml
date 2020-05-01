@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d6e692c-0ef2-4075-889f-8a8f9d16dad5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZLaWJEPkxh2OpCbkYYdcooPF8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../project-login-FINISH/webpack.config.js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zipper\Desktop\project-login-START\src\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d6e692c-0ef2-4075-889f-8a8f9d16dad5" name="Default Changelist" comment="" />
+      <created>1585041732997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585041732997</updated>
+      <workItem from="1585041735726" duration="6689000" />
+      <workItem from="1585124229968" duration="9900000" />
+      <workItem from="1585197491695" duration="14692000" />
+      <workItem from="1585224995487" duration="2179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1720" height="880" maximized="true" key="DiffContextDialog" timestamp="1585127396720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" maximized="true" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585127396720" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1585137016224">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585137016224" />
+    <state width="1920" height="314" key="GridCell.Tab.0.bottom" timestamp="1585051926880">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585051926880" />
+    <state width="1920" height="314" key="GridCell.Tab.0.center" timestamp="1585051926879">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="314" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585051926879" />
+    <state width="1920" height="314" key="GridCell.Tab.0.left" timestamp="1585051926879">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="314" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585051926879" />
+    <state width="1920" height="314" key="GridCell.Tab.0.right" timestamp="1585051926879">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="314" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585051926879" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1585050792960">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585050792960" />
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585201510791">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585201510791" />
+    <state x="636" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1585197491597">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="636" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585197491597" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1585206717815">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585206717815" />
+    <state x="624" y="254" key="run.anything.popup" timestamp="1585213087567">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="254" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585213087567" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1585124283239">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585124283239" />
+  </component>
+</project>

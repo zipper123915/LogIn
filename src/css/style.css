@@ -1,0 +1,76 @@
+.login-page-wrapp {
+    height: 100vh;
+}
+
+body {
+    position: relative;
+}
+
+.login-form-wrap {
+    width: 50%;
+}
+
+.login-form-wrap .form-card {
+    max-width: 500px;
+    width: 100%;
+    margin-right: 30px;
+}
+
+.login-form-wrap .form-card .card-title {
+    color: var(--gray);
+}
+
+.login-greeting-screen {
+    background: var(--teal);
+    cursor: pointer;
+    padding: 20px;
+}
+
+.login-greeting-screen .login-greeting-screen-text {
+    max-width: 500px;
+}
+
+.login-greeting-screen .login-greeting-screen-text {
+    color: var(--white);
+}
+
+.login-greeting-screen .login-greeting-screen-title {
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
+
+.login-greeting-screen .login-greeting-screen-description {
+    line-height: 1.4;
+}
+
+.front-layer {
+    position: absolute;
+    width: 50vw;
+    right: 0;
+    transition: transform .7s ease-in-out;
+    top: 0;
+    bottom: 0;
+}
+
+.slide-left {
+    transform: translateX(-100%);
+}
+
+.reg-form-card {
+    max-width: 75% !important;
+}
+
+.ui-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-width: 300px;
+    overflow-y: auto;
+    max-height: 250px;
+}
+
+.ui-menu > * {
+    border: .7px solid black;
+    background-color: #ede7ea;
+    padding: .3rem 10px;
+}
